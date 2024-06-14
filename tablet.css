@@ -1,0 +1,36 @@
+/*navbar*/
+.navbar ul{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+
+/*headings*/
+.heading{
+    font-size: 2.5rem;
+
+}
+/*About*/
+#pic{
+    flex-direction: column;
+    align-items:center;
+}
+#picimg{
+    width:475;
+    height: 300px;
+}
+#introh2{
+    text-align:center;
+    padding:10px;
+}
+/*contact */
+.input{
+    width:60%;
+}
+#msg{
+    width:55%;
+}
+#send{
+    width:20%;
+}
